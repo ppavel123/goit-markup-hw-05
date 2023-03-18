@@ -692,6 +692,7 @@ h3 {
 }
 
 .backdrop.is-hidden {
+	visibility: inherit;
 	opacity: 0;
 	pointer-events: none;
 }
